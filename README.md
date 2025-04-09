@@ -61,8 +61,9 @@ dotnet run
 1. **Start the React development server:**
   ```bash
 npm start
-The React client will run at http://localhost:3000.
 
-Notes
-Make sure CORS is enabled in the API to allow requests from http://localhost:3000.
-Adjust the API URL in your React components if needed.
+- The React client will run at http://localhost:3000.
+
+### Notes
+- Make sure CORS is enabled in the API to allow requests from http://localhost:3000.
+- Adjust the API URL in your React components if needed.
